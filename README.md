@@ -1,4 +1,3 @@
-# career campus
 # 🎓 Career Campus
 
 Career Campus is a Python and Streamlit-based learning platform designed to help students learn programming, practice their skills, take quizzes, prepare for interviews, and build their resumes in one place.
