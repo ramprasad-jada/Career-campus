@@ -128,7 +128,7 @@ Career-Campus/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nithinkumar-bathini/Career-Campus.git
+git clone https://github.com/ramprasad-jada/Career-Campus.git
 ```
 
 ### 2. Open the Project Folder
